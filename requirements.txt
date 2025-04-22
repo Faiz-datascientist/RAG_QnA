@@ -1,0 +1,15 @@
+langchain==0.3.14
+ipykernel==6.29.5
+python-dotenv==1.0.1
+langchain_community
+langchain-community
+bs4
+arxiv==2.1.0
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+langchain_google_genai
+langchain_groq
+streamlit
